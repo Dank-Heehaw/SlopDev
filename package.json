@@ -1,0 +1,24 @@
+{
+  "name": "slopdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir=abdulwaheedkhanSowdagar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dank-Heehaw/SlopDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dank-Heehaw/SlopDev/issues"
+  },
+  "homepage": "https://github.com/Dank-Heehaw/SlopDev#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
